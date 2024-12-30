@@ -1,4 +1,4 @@
-readme_content = """# DCA vs LSI Simulation with Geometric Brownian Motion
+# DCA vs LSI Simulation with Geometric Brownian Motion
 
 This repository provides a Python-based simulation to compare Dollar-Cost Averaging (DCA) and Lump Sum Investing (LSI) using Geometric Brownian Motion (GBM).
 
