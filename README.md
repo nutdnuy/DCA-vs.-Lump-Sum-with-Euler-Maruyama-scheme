@@ -1,12 +1,3 @@
-# Directory structure preparation
-
-# Root Directory
-# - README.md: Overview of the project
-# - main.py: Main Python script for simulation
-# - streamlit_app.py: Streamlit app for interactive visualization
-# - requirements.txt: Dependencies
-
-# README.md
 readme_content = """# DCA vs LSI Simulation with Geometric Brownian Motion
 
 This repository provides a Python-based simulation to compare Dollar-Cost Averaging (DCA) and Lump Sum Investing (LSI) using Geometric Brownian Motion (GBM).
