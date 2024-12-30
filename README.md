@@ -33,3 +33,5 @@ This repository provides a Python-based simulation to compare Dollar-Cost Averag
 - Matplotlib
 - Streamlit
 """
+
+- [article ](https://medium.com/p/41e5c4788859/)
